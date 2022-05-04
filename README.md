@@ -1,6 +1,6 @@
 # Git
 
-![Git](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.colinodell.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fresponsive%2Fpublic%2F2018-03%2FGit-Logo-2Color.png%3Fitok%3DQExkXmwO&f=1&nofb=1)
+![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
 ## Overview
 In this lesson, we'll learn about distributed version control using Git.
